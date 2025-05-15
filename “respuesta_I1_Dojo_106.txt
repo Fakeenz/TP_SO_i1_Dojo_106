@@ -4,8 +4,8 @@ Gallo Facundo - Alfa
 Carrascal Augusto - Beta
 Juan Fernandez - Gamma
 
-a-¿ALFA ve los datos que cargaron los demás en su repositorio? 
-b-¿Si ALFA agrega un archivo los demás integrantes lo ven? 
+a-¿ALFA ve los datos que cargaron los demás en su repositorio? Si, Alfa puede ver los datos que cargaron los demas
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven? Afirmativo, Lo pueden ver
 c-¿Si BETA  agrega un archivo los demás integrantes lo ven? 
 d-¿De qué forma se comunicaron ustedes? 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
